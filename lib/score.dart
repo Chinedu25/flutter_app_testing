@@ -14,7 +14,7 @@ class Score extends StatelessWidget {
       thePhrase = "You must be a dumb titan, Worse than dirt!!";
     }
     else if (_score <= 100){
-      thePhrase ="Nice one Eldian!!";
+      thePhrase ="Nice one Eldian!";
     }
     else if (_score <= 200){
       thePhrase = "Another Win for the Survey Corps!!";
